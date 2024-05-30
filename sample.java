@@ -1,4 +1,4 @@
-public static void main (){
-	system.out.println("welcome to teks academy");
+void somefunction(){
+	system.out.println("this is some function");
 }
 
