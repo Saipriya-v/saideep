@@ -1,4 +1,4 @@
-void somefunction(){
-	system.out.println("this is some function");
+void anotherfunction(){
+	system.out.println("this is from another function");
 }
 
