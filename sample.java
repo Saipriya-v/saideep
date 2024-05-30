@@ -6,4 +6,7 @@ void functiontwo_br2(){
 }
 void functionfour_newbr(){
 	system.out.println("this is from function four in newbr");
-}	
+}
+void functionfive_newbr(){
+	system.out.println("this is from function five in newbr")
+}	       	
